@@ -1,0 +1,38 @@
+{
+	"Slug": "tournament/genesis-7-1/event/ultimate-singles",
+	"ManualCharacters": true,
+	"ManualData": {
+		"p1": {
+			"name": "Spark",
+			"character": "scizor"
+		},
+		"p2": {
+			"name": "Spark",
+			"character": "scizor"
+		},
+		"p3": {
+			"name": "Spark",
+			"character": "scizor"
+		},
+		"p4": {
+			"name": "Spark",
+			"character": "scizor"
+		},
+		"p5": {
+			"name": "Spark",
+			"character": "scizor"
+		},
+		"p6": {
+			"name": "Spark",
+			"character": "scizor"
+		},
+		"p7": {
+			"name": "Spark",
+			"character": "scizor"
+		},
+		"p8": {
+			"name": "Spark",
+			"character": "scizor"
+		}
+	}
+}
