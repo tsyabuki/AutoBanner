@@ -1,0 +1,77 @@
+{
+  "charX": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "charY": [
+    105,
+    200,
+    295,
+    390,
+    485,
+    580,
+    675,
+    770
+  ],
+  "playerFontName": "TCB_____.ttf",
+  "playerFontSize": 57,
+  "nameX": [
+    104,
+    104,
+    104,
+    104,
+    104,
+    104,
+    104,
+    104
+  ],
+  "nameY": [
+    200,
+    295,
+    390,
+    485,
+    580,
+    675,
+    770,
+    865
+  ],
+  "nameW": [
+    285,
+    285,
+    285,
+    285,
+    285,
+    285,
+    285,
+    285
+  ],
+  "nameH": [
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60,
+    60
+  ],
+  "headerFontName": "TCB_____.ttf",
+  "headerFontSize": 45,
+  "headerX": 0,
+  "headerY": 119,
+  "headerW": 540,
+  "headerH": 53,
+  "tagFontName": "TCB_____.ttf",
+  "tagFontSize": 18,
+  "tagX": 0,
+  "tagY": 167,
+  "tagW": 540,
+  "tagH": 20,
+  "tagsToCaps": true
+}

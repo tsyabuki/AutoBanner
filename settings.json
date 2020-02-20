@@ -1,39 +1,44 @@
 {
-	"Slug": "tournament/genesis-7-1/event/ultimate-singles",
-	"ManualCharacters": true,
-	"ManualList": [1, 2, 3, 4, 5, 6, 7, 8],
-	"ManualData": {
-		"p1": {
+	"Slug": "tournament/smash-ultimate-summit-2/event/smash-ultimate-summit",
+	"OutputFilename": "out.png",
+	"InputBG": "bannertemplate.png",
+	"HeaderText": "NO CAPS SMASH ULTIMATE",
+	"ManualTag": true,
+	"ManualTagText": "2/20/2020 - 100 Entrants",
+	"ManualCharacters": false,
+	"ManualList": [false, false, false, false, false, false, false, false],
+	"ManualData": [
+		{
 			"name": "Spark",
-			"character": "scizor"
+			"character": "scizor.png"
 		},
-		"p2": {
+		{
 			"name": "Spark",
-			"character": "scizor"
+			"character": "scizor.png"
 		},
-		"p3": {
+		{
 			"name": "Spark",
-			"character": "scizor"
+			"character": "scizor.png"
 		},
-		"p4": {
+		{
 			"name": "Spark",
-			"character": "scizor"
+			"character": "scizor.png"
 		},
-		"p5": {
+		{
 			"name": "Spark",
-			"character": "scizor"
+			"character": "scizor.png"
 		},
-		"p6": {
+		{
 			"name": "Spark",
-			"character": "scizor"
+			"character": "scizor.png"
 		},
-		"p7": {
+		{
 			"name": "Spark",
-			"character": "scizor"
+			"character": "scizor.png"
 		},
-		"p8": {
+		{
 			"name": "Spark",
-			"character": "scizor"
+			"character": "scizor.png"
 		}
-	}
+	]
 }
