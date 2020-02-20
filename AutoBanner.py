@@ -24,9 +24,9 @@ if gs['ManualCharacters'] == True:
             players[i] = gs['ManualData'][i]['name']
             characterImg[i] = gs['ManualData'][i]['character']
 
-print(tagline)
-print(players)
-print(characterImg)
+# print(tagline)
+# print(players)
+# print(characterImg)
 
 banner = bm.bannerGen(players, characterImg, tagline)
 banner.genImg()
