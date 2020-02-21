@@ -1,12 +1,12 @@
 {
-	"Slug": "tournament/smash-ultimate-summit-2/event/smash-ultimate-summit",
-	"OutputFilename": "out.png",
+	"Slug": "tournament/reveille-s-revenge/event/reveille-s-revenge",
+	"OutputFilename": "revsrevenge.png",
 	"InputBG": "bannertemplate.png",
-	"HeaderText": "NO CAPS SMASH ULTIMATE",
+	"HeaderText": "REVS SMASH ULTIMATE 1",
 	"ManualTag": true,
-	"ManualTagText": "2/20/2020 - 100 Entrants",
-	"ManualCharacters": false,
-	"ManualList": [false, false, false, false, false, false, false, false],
+	"ManualTagText": "4/6/2019 - 27 Entrants",
+	"ManualCharacters": true,
+	"ManualList": [false, false, false, false, false, false, false, true],
 	"ManualData": [
 		{
 			"name": "Spark",
@@ -37,8 +37,8 @@
 			"character": "scizor.png"
 		},
 		{
-			"name": "Spark",
-			"character": "scizor.png"
+			"name": "T.Knife",
+			"character": "wiifit.png"
 		}
 	]
 }
