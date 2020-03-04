@@ -120,10 +120,11 @@ class ggresults:
                 # print(x)
                 if x['games'] != None and x['games'] != "null": #If "Games" exist
                     for y in x['games']: # Check each "game"
-                        for z in y['selections']: # Check each character pick per game
-                            for w in range(8): # Create a list of each played character per player
-                                if(z['entrantId'] == self.entrantIDs[w]):
-                                    self.selections[w].append(z['selectionValue'])
+                        if y['selections'] != None:
+                            for z in y['selections']: # Check each character pick per game
+                                for w in range(8): # Create a list of each played character per player
+                                    if(z['entrantId'] == self.entrantIDs[w]):
+                                        self.selections[w].append(z['selectionValue'])
 
         for v in range(8): # Find the most common selection from each player
             if len(self.selections[v]) != 0:
